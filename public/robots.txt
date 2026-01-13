@@ -1,0 +1,12 @@
+# Robots.txt for AI Generated Project
+# Allow all crawlers
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: /sitemap.xml
+
+# Disallow admin/private areas (customize as needed)
+# Disallow: /admin/
+# Disallow: /private/
